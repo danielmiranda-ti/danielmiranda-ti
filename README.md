@@ -6,7 +6,7 @@ Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluç�
 
 ---
 
-## 🧱 Arquitetura de Software
+## 🧱 Arquitetura de Software - Padrões de Sagas
 
 Projetos focados em design de sistemas, padrões e boas práticas.
 
@@ -16,12 +16,48 @@ Projetos focados em design de sistemas, padrões e boas práticas.
 
 - [epic-saga-orquestrador](https://github.com/danielmiranda-ti/epic-saga-orquestrador) – Orquestrador central responsável por iniciar e coordenar as etapas da saga
 
-==
 ### 📞 Phone Tag Saga
 
 #### 🔧 Repositórios:
 
 -[]()
+
+### 🧚 Fairy Tale Saga
+
+#### 🔧 Repositórios:
+
+-[]()
+
+### ⏳ Time Travel Saga
+
+#### 🔧 Repositórios:
+
+-[]()
+
+### 🦄 Fantasy Fiction Saga
+
+#### 🔧 Repositórios:
+
+-[]()
+
+### 👻 Horror Story Saga
+
+#### 🔧 Repositórios:
+
+-[]()
+
+### 🔀 Parallel Saga
+
+#### 🔧 Repositórios:
+
+-[]()
+
+### 📚 Anthology Saga
+
+#### 🔧 Repositórios:
+
+-[]()
+
 ---
 
 ## 🐍 Python
