@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Daniel Miranda</h1>
+
+<p align="center">
+Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluções inteligentes usando Python, Java e AWS ☁️
+</p>
+
+---
+
+## 🧱 Arquitetura de Software
+
+Projetos focados em design de sistemas, padrões e boas práticas.
 
 
-**danielmiranda-ti/danielmiranda-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Projetos em Python para automações, análise de dados e scraping.
 
+
+
+---
+
+## ☁️ Cloud / AWS / DevOps
+
+Soluções e experimentos com serviços em nuvem e automações DevOps.
+
+
+
+---
+
+## 🧪 Projetos de Estudo e POCs
+
+Pequenos projetos e provas de conceito.
+
+
+
+---
+
+## 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-miranda-b6a3483b)
+- 📧 danielmiranda.ti@gmail.com
