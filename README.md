@@ -10,6 +10,11 @@ Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluç�
 
 Projetos focados em design de sistemas, padrões e boas práticas.
 
+### 🌀 Epic Saga
+
+#### 🔧 Repositórios:
+
+- [epic-saga-orquestrador](https://github.com/danielmiranda-ti/epic-saga-orquestrador)
 
 ---
 
