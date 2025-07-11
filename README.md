@@ -10,49 +10,49 @@ Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluç�
 
 Projetos focados em design de sistemas, padrões e boas práticas.
 
-### 🌀 Epic Saga
+### 🌀 Epic Saga (sao)
 
 #### 🔧 Repositórios:
 
 - [epic-saga-orquestrador](https://github.com/danielmiranda-ti/epic-saga-orquestrador) – Orquestrador central responsável por iniciar e coordenar as etapas da saga
 
-### 📞 Phone Tag Saga
+### 📞 Phone Tag Saga (sac)
 
 #### 🔧 Repositórios:
 
 -[]()
 
-### 🧚 Fairy Tale Saga
+### 🧚 Fairy Tale Saga (seo)
 
 #### 🔧 Repositórios:
 
 -[]()
 
-### ⏳ Time Travel Saga
+### ⏳ Time Travel Saga (sec)
 
 #### 🔧 Repositórios:
 
 -[]()
 
-### 🦄 Fantasy Fiction Saga
+### 🦄 Fantasy Fiction Saga (aao)
 
 #### 🔧 Repositórios:
 
 -[]()
 
-### 👻 Horror Story Saga
+### 👻 Horror Story Saga (aac)
 
 #### 🔧 Repositórios:
 
 -[]()
 
-### 🔀 Parallel Saga
+### 🔀 Parallel Saga (aeo)
 
 #### 🔧 Repositórios:
 
 -[]()
 
-### 📚 Anthology Saga
+### 📚 Anthology Saga (aec)
 
 #### 🔧 Repositórios:
 
