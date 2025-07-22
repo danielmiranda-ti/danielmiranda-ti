@@ -26,6 +26,24 @@ Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluç�
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/>
       <sub><b>Terraform</b></sub>
+    </td>    
+    <td align="center" width="120">
+      <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/DBeaver_logo.svg"  width="40" /><br/>
+      <sub><b>DBeaver</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"  /><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"  width="40" /><br/>
+      <sub><b>Oracle Database</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/><br/>
+      <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
@@ -34,12 +52,6 @@ Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluç�
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /><br/>
       <sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/><br/>
-      <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/><br/>
@@ -52,6 +64,10 @@ Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluç�
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br/>
       <sub><b>VSCode</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sonarqube.svg" alt="SonarQube" width="80" h/><br/>
+      <sub><b>SonarQube</b></sub>
     </td>
     <td align="center" width="120">      
       <img src="https://insomnia.rest/images/insomnia-logo.svg" width="110" />
