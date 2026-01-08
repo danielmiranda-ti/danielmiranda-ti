@@ -83,11 +83,34 @@ Desenvolvedor apaixonado por arquitetura de software, microsserviços, e soluç�
 Projetos em Java, usando spring.
 
 #### 🧩	Organização de estrutura do projeto
-
+-->
 ---
 ## 🐍 Projetos em Python
 Projetos em Python para automações, análise de dados e scraping.
 
+<details>
+  <summary><strong> 🌟 Api Rest Flask </strong></summary>
+  
+  - ## 🌟 Com LocalStack
+
+    ### 🔧 Serviço REST para SNS/SQS/DynamoDB (LocalStack)
+    [🔗 Ver repositório](https://github.com/danielmiranda-ti/api-utilitaria-local-stack)
+    
+    Serviço em **Python/Flask** que expõe uma API REST para trabalhar com **SQS**, **SNS** e **DynamoDB** usando **LocalStack** como mock da AWS.
+    
+    - 🧱 Stack: Python, Flask, boto3, LocalStack, Docker
+    - ☁️ Focado em: integrações com serviços AWS em ambiente local
+    - 🔌 Funcionalidades:
+      - Envio e consumo de mensagens **SQS** por nome de fila
+      - Criação de tópicos **SNS** e publicação por nome de tópico
+      - Criação de **subscriptions SNS → SQS** e **SNS → Lambda**
+      - Leitura de itens no **DynamoDB** (scan e get por chave)
+    - 🧪 Uso típico:
+      - Desenvolvimento e testes locais de fluxos assíncronos
+      - Simulação de arquitetura orientada a eventos sem usar AWS real
+</details>
+
+<!--
 ---
 ## ☁️ Cloud / AWS / DevOps
 
@@ -161,6 +184,10 @@ Pequenos projetos e provas de conceito.
 </details>
 
 ---
+
+
+
+
 
 ## 📬 Contato
 
