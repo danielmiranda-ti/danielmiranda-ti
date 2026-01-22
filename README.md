@@ -116,6 +116,30 @@ Projetos em Python para automações, análise de dados e scraping.
 
 Soluções e experimentos com serviços em nuvem e automações DevOps.
 -->
+
+---
+
+## 📊 Observabilidade & DevOps
+
+Projetos focados em monitoramento, logs centralizados e infraestrutura para aplicações distribuídas.
+
+<details>
+  <summary><strong>🚦 Observability – Logs centralizados com Grafana, Loki e Alloy</strong></summary>
+  
+  - 🧩 Infraestrutura completa para observabilidade de aplicações backend e microsserviços.
+  - 📦 Orquestrado com <strong>Docker Compose</strong>, subindo <strong>Grafana</strong>, <strong>Loki</strong> e <strong>Alloy</strong>.
+  - 📁 Coleta logs em JSON (via arquivo/STDOUT) com campos como:
+    - <code>correlation_id</code>
+    - <code>service</code>
+    - <code>step</code>
+    - <code>status</code>
+  - 📈 Inclui dashboard pronto no Grafana para:
+    - Visualizar a linha do tempo da saga por <code>correlation_id</code>
+    - Analisar volume de logs, erros por aplicação, steps da saga, etc.
+  - 🔗 <a href="https://github.com/danielmiranda-ti/observability">Ver repositório</a>
+
+</details>
+
 ---
 
 ## 🧪 Projetos de Estudo e POCs
